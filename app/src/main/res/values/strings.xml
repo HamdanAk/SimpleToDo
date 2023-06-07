@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Simple To Do</string>
+    <string name="btnClear">Clear</string>
+    <string name="btnAdd">Add</string>
+    <string name="inpTask">Enter Task</string>
+    <string name="btnDel">Delete</string>
+
+    <string-array name="spnItems">
+        <item>Add a New Task</item>
+        <item>Remove a Task</item>
+
+    </string-array>
+</resources>
